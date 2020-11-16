@@ -1,0 +1,14 @@
+{
+	"name": "cody-utils",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"scripts": {
+		"test": "mocha",
+		"test:watch": "mocha --watch"
+	},
+	"devDependencies": {
+		"chai": "*",
+		"mocha": "*"
+	}
+}
